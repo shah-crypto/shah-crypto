@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I’m @shah-crypto<br>💼 I’m currently working as a Software Engineer<br>📫 You can reach me via email at prathamshah2507@gmail.com
+👋 Hi, I’m Pratham Shah<br>💼 I’m currently working as a Software Engineer<br>📫 You can reach me via email at prathamshah2507@gmail.com
 
 
 # 💻 Tech Stack:
